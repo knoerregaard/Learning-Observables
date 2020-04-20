@@ -1,0 +1,22 @@
+{
+  "name": "learning-observables",
+  "version": "1.0.0",
+  "description": "git remote add origin https://github.com/knoerregaard/Learning-Observables.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knoerregaard/Learning-Observables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knoerregaard/Learning-Observables/issues"
+  },
+  "homepage": "https://github.com/knoerregaard/Learning-Observables#readme",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
